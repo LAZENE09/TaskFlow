@@ -146,7 +146,7 @@ As imagens abaixo são **capturas da interface da aplicação** e apresentam alg
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/Taskflow.git
+git clone https://github.com/LAZENE09/Taskflow.git
 cd Taskflow
 ```
 
@@ -268,7 +268,23 @@ Caso o relatório final seja publicado, recomenda-se utilizar uma versão revisa
 
 **Curso:** Análise e Desenvolvimento de Sistemas — Centro Universitário Anhembi Morumbi, Sorocaba/SP (2026).
 
-Neste portfólio, destaco minha participação em **[DESCREVA AQUI SUA CONTRIBUIÇÃO REAL NO PROJETO]**. Exemplos: desenvolvimento de telas, API, integração com banco de dados, regras de negócio, testes, documentação, modelagem, correção de bugs ou organização do projeto.
+Neste portfólio, destaco minha participação em ## Minha participação no projeto
+
+Durante o desenvolvimento do TaskFlow, atuei como desenvolvedor Full Stack, com maior foco no back-end, na implementação de regras de negócio e na integração entre o aplicativo mobile, a API e o banco de dados.
+
+Minhas principais contribuições foram:
+
+- Desenvolvimento e manutenção de APIs REST utilizando C# e ASP.NET Core.
+- Integração e manipulação de dados com MySQL.
+- Desenvolvimento e ajustes de funcionalidades no front-end utilizando React Native, Expo e TypeScript.
+- Implementação e integração de regras de negócio relacionadas à autenticação, publicação de chamados, candidaturas, dupla aceitação e contratos.
+- Desenvolvimento e integração dos sistemas de mensagens e avaliações mútuas.
+- Implementação de filtros para busca de serviços.
+- Integração entre front-end, back-end e banco de dados.
+- Realização de testes funcionais, identificação de falhas, depuração e correção de bugs.
+- Versionamento de código e desenvolvimento colaborativo utilizando Git e GitHub.
+
+A participação neste projeto possibilitou a aplicação prática de conhecimentos de engenharia de software, desenvolvimento mobile, APIs REST, bancos de dados relacionais e resolução de problemas, contribuindo para minha formação em Análise e Desenvolvimento de Sistemas.
 
 ## Créditos
 
