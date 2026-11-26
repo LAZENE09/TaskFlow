@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Local development configuration / secrets
+**/appsettings.Development.json
+.env
+.env.*
+!.env.example
+
+# Certificates / private keys
+*.pfx
+*.p12
+*.pem
+*.key
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
